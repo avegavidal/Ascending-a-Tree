@@ -1,0 +1,13 @@
+C:\Users\Padrino\Desktop\Assigments\Ascending-a-Tree\Ascending-a-Tree\Ascending-a-Tree\bin\Debug\netcoreapp3.1\Ascending-a-Tree.exe
+C:\Users\Padrino\Desktop\Assigments\Ascending-a-Tree\Ascending-a-Tree\Ascending-a-Tree\bin\Debug\netcoreapp3.1\Ascending-a-Tree.deps.json
+C:\Users\Padrino\Desktop\Assigments\Ascending-a-Tree\Ascending-a-Tree\Ascending-a-Tree\bin\Debug\netcoreapp3.1\Ascending-a-Tree.runtimeconfig.json
+C:\Users\Padrino\Desktop\Assigments\Ascending-a-Tree\Ascending-a-Tree\Ascending-a-Tree\bin\Debug\netcoreapp3.1\Ascending-a-Tree.runtimeconfig.dev.json
+C:\Users\Padrino\Desktop\Assigments\Ascending-a-Tree\Ascending-a-Tree\Ascending-a-Tree\bin\Debug\netcoreapp3.1\Ascending-a-Tree.dll
+C:\Users\Padrino\Desktop\Assigments\Ascending-a-Tree\Ascending-a-Tree\Ascending-a-Tree\bin\Debug\netcoreapp3.1\Ascending-a-Tree.pdb
+C:\Users\Padrino\Desktop\Assigments\Ascending-a-Tree\Ascending-a-Tree\Ascending-a-Tree\obj\Debug\netcoreapp3.1\Ascending-a-Tree.csprojAssemblyReference.cache
+C:\Users\Padrino\Desktop\Assigments\Ascending-a-Tree\Ascending-a-Tree\Ascending-a-Tree\obj\Debug\netcoreapp3.1\Ascending-a-Tree.AssemblyInfoInputs.cache
+C:\Users\Padrino\Desktop\Assigments\Ascending-a-Tree\Ascending-a-Tree\Ascending-a-Tree\obj\Debug\netcoreapp3.1\Ascending-a-Tree.AssemblyInfo.cs
+C:\Users\Padrino\Desktop\Assigments\Ascending-a-Tree\Ascending-a-Tree\Ascending-a-Tree\obj\Debug\netcoreapp3.1\Ascending-a-Tree.csproj.CoreCompileInputs.cache
+C:\Users\Padrino\Desktop\Assigments\Ascending-a-Tree\Ascending-a-Tree\Ascending-a-Tree\obj\Debug\netcoreapp3.1\Ascending-a-Tree.dll
+C:\Users\Padrino\Desktop\Assigments\Ascending-a-Tree\Ascending-a-Tree\Ascending-a-Tree\obj\Debug\netcoreapp3.1\Ascending-a-Tree.pdb
+C:\Users\Padrino\Desktop\Assigments\Ascending-a-Tree\Ascending-a-Tree\Ascending-a-Tree\obj\Debug\netcoreapp3.1\Ascending-a-Tree.genruntimeconfig.cache
